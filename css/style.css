@@ -1,0 +1,22 @@
+.jumbotron{
+    text-align: center;
+}
+
+.card-body {
+    text-align: left;
+    overflow: hidden;
+}
+
+.card {
+    margin: auto;
+    width: 60%;
+   
+}
+
+footer{
+text-align: center;
+}
+
+footer span {
+ color: red;
+}
